@@ -12,7 +12,7 @@ ISO27001_LA_案例實作分析:
 ## 案卷目錄結構
 
 /01-governance-and-context
-  - 01_[組織脈絡與ISMS範疇審查紀錄](https://hackmd.io/@os392fnjTMStDn5jR5zRUg/B1awH5NHGl)
+  - 01_[組織脈絡與ISMS範疇審查紀錄](組織脈絡與ISMS範疇審查紀錄.md)
   - 02_管理審查會議紀錄與出席簽到審核.md
 
 /02-risk-assessment-audit
