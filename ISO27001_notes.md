@@ -12,7 +12,7 @@ ISO27001_LA_案例實作分析:
 ## 案卷目錄結構
 
 /01-governance-and-context
-  - 01_組織脈絡與 ISMS 範疇審查紀錄.md
+  - 01_[組織脈絡與ISMS範疇審查紀錄](https://hackmd.io/@os392fnjTMStDn5jR5zRUg/B1awH5NHGl)
   - 02_管理審查會議紀錄與出席簽到審核.md
 
 /02-risk-assessment-audit
@@ -51,3 +51,7 @@ A.8.15 日誌留存 | 軌跡完整性與防竄改機制 | Linux auditd 設定檔
 
 ## 備註
 本儲存庫表單僅供資安稽核演練、資安顧問輔導與內部稽核流程規劃參考。
+---
+## 參考資料
+1. 資通國家安全法 中文版(https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030297)
+2. 資通國家安全法 英文版 (Cyber Security Management Act, https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=A0030297)
