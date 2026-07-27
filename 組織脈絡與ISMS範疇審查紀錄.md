@@ -1,0 +1,8 @@
+[![hackmd-github-sync-badge](https://hackmd.io/UU3RfAtjSqauzedsGrMuvw/badge)](https://hackmd.io/UU3RfAtjSqauzedsGrMuvw)
+政策大綱：
+
+目的、範圍 目標、策略、審查
+
+組織大綱：
+
+設置資安組織原由簡述(大約100字簡略說明)、成立資訊安全管理委員會(以下簡稱管委會)、指定資安長為○○○、執行秘書為○○○、管理代表為○○○、以及其它資安組織角色職掌與工作內容(企業或機構大多由職員兼任，屬於任務編組性質)、管委員召開頻率、主辦單位與權責。
