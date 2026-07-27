@@ -1,13 +1,9 @@
 [![hackmd-github-sync-badge](https://hackmd.io/UU3RfAtjSqauzedsGrMuvw/badge)](https://hackmd.io/UU3RfAtjSqauzedsGrMuvw)
 政策大綱：
 
-目的、範圍、目標、策略、審查
+稽核目的: 協助公司強化資訊安全，保障公司資料財產，讓員工有資安共識，不因資安是無形資產而忽略。
 
-組織大綱：
-
-設置資安組織目的: 強化資訊安全，保障公司資料財產。
-
-資訊安全管理委員會(以下簡稱資委會)：指定人員如下：
+貴公司資訊安全管理委員會(以下簡稱資委會)如下：
 
 資安長為○○○
 
